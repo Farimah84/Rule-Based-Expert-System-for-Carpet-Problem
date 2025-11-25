@@ -39,5 +39,4 @@ carpet-expert-system/
 MIT License — free to use, modify, and distribute.
 
 ## :bust_in_silhouette: Contact
-Email: (farimahnourpanah@gmail.com)
-
+Email: farimahnourpanah@gmail.com
