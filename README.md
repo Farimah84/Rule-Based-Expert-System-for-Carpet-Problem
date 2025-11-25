@@ -14,3 +14,18 @@ carpet-expert-system/
 - CLIPS 6.4 or newer
 - A terminal or CLIPS console
 - No additional packages needed
+
+## :rocket: How to Run
+1. Open CLIPS.
+2. Load the expert system:
+```
+(load "carpet_rules.clp")
+```
+3. Initialize facts:
+```
+(reset)
+```
+4. Start diagnosis:
+```
+(run)
+```
