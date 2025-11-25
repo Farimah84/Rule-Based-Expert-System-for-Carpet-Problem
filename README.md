@@ -7,8 +7,8 @@ This expert system asks a series of questions in sequence, and whenever the user
 ```
 carpet-expert-system/
 |    
-├── carpet_rules.clp        # Main CLIPS file (rules + questions)      
-└── sample_run.txt
+|── carpet_rules.clp        # Main CLIPS file (rules + questions)      
+|── sample_run.txt
 |   README.md  
 ``` 
 ## :hammer_and_wrench: Requirements
