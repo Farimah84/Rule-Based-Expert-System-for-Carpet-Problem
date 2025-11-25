@@ -787,17 +787,17 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;; Question  — Wear
+;; Question — Wear
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-(defrule ask-wear-damaged
+(defrule ask-wear-damage
    (moisture-damage no)
    =>
    (bind ?ans (ask "Has the rug developed uneven or localized wear?" (create$ yes no)))
-   (assert (moisture-damaged ?ans)))
+   (assert (moisture-damage ?ans)))
 
-(defrule wear-damaged-yes
-   (wear-damaged yes)
+(defrule wear-damage-yes
+   (wear-damage yes)
    =>
    (printout t crlf
       "Solution: Rotate the rug once or twice a year and avoid placing it on irregular surfaces" crlf))
@@ -811,7 +811,7 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 (defrule ask-flatten
-   (pile no)
+   (wear-damage no)
    =>
    (bind ?ans (ask "Is the carpet surface flattened in some areas?" (create$ yes no)))
    (assert (flatten ?ans)))
