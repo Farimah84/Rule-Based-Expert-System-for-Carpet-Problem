@@ -1,6 +1,7 @@
 # Rule-Based Expert System for Carpet Problem
-An interactive rule-based expert system built with CLIPS that diagnoses common carpet problems (stains, odor, fiber damage, color issues, aging, moisture problems, etc.) using a structured question–answer dialogue.
-This project simulates a real expert asking sequential questions, evaluating symptoms, and generating a final diagnosis and recommended solutions.
+This project focuses on building an expert system that does not rely on a fixed algorithmic solution. Instead, it is based on real expert knowledge.
+For the carpet fault–diagnosis domain, my expert was my father — a professional carpet specialist with over 37 years of experience. His practical knowledge served as the foundation for designing the rules and solutions used in this system.
+This expert system asks a series of questions in sequence, and whenever the user confirms a condition, it provides the appropriate solution.
 
 ## :file_folder: Project Structure
 ```
