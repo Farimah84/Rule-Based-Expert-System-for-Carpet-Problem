@@ -34,3 +34,10 @@ carpet-expert-system/
 - Is there glue spillied on the carpet?
 - Did an oil-based stain spill on the carpet?
 - Has sunlight caused fading or damage to the rug?
+
+## 	:scroll: License
+MIT License — free to use, modify, and distribute.
+
+## :bust_in_silhouette: Contact
+Email: (farimahnourpanah@gmail.com)
+
