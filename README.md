@@ -1,4 +1,4 @@
-# Carpet Fault Diagnosis Expert System
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5e59e056-1af2-48a1-a241-ff60d4811ab7" /># Carpet Fault Diagnosis Expert System
 An interactive rule-based expert system built with CLIPS that diagnoses common carpet problems (stains, odor, fiber damage, color issues, aging, moisture problems, etc.) using a structured question–answer dialogue.
 This project simulates a real expert asking sequential questions, evaluating symptoms, and generating a final diagnosis and recommended solutions.
 
@@ -40,3 +40,4 @@ MIT License — free to use, modify, and distribute.
 
 ## :bust_in_silhouette: Contact
 Email: farimahnourpanah@gmail.com
+[Linkedin](https://www.linkedin.com/in/farimah-nourpanah)
