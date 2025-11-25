@@ -3,8 +3,8 @@ An interactive rule-based expert system built with CLIPS that diagnoses common c
 This project simulates a real expert asking sequential questions, evaluating symptoms, and generating a final diagnosis and recommended solutions.
 
 ## roject Structure
-carpet-expert-system/
+```carpet-expert-system/
 │
 ├── carpet_rules.clp        # Main CLIPS file (rules + questions)
 ├── README.md                # Documentation
-└── sample_run.txt                    
+└── sample_run.txt ```             
