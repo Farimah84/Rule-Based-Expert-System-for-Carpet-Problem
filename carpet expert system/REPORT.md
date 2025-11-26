@@ -1,5 +1,4 @@
-# Title
-## Rule Based Expert System for Carpet Problem
+# Title: Rule Based Expert System for Carpet Problem
 ### Autor: *Farimah Nourpanah*
 ### Course: *Artificial Intelligence and Expert System*
 ### Date: *November 2025*
