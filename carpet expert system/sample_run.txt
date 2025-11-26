@@ -17,3 +17,8 @@ Welcome! — please answer the questions to diagnose.
    Options: (smoke chemical urine moistureer)
    Enter your answer: chemical
 ✔ Answer recorded: smell-type = chemical
+
+Solution: Avoid further chemical exposure; consult a specialist and consider professional cleaning.
+--------------------------------------------------
+     Thank you for using the expert system!
+--------------------------------------------------
