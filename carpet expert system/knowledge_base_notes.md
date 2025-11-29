@@ -37,6 +37,17 @@
 - Wear
 - Flattening
 
-## 3. Example rules (table)
-- R13 | stain-type oil | IF stain-type oil THEN Recommendation: apply cornstarch...
+## 3. Rule format
+```
+(defrule ask-smell-type
+   (smell yes)
+   =>
+   (bind ?type (ask "What type of smell is it?" (create$ smoke chemical urine moistureer)))
+   (assert (smell ?type))
+   (printout t "✔ Answer recorded: smell-type = " ?type crlf))
+```
+
+## 4. Example rules (table)
+- R1 | smell-type smoke | IF smell-type smoke oil THEN Solution: Air the carpet outdoors, use deep-cleaning or steam cleaning to remove residues.
+- R14 | insects-or-animals-type dog-chewing | IF insects-or-animals-type dog-chewing THEN Solution: Sprinkle about 20 grams of moth flakes under the rug and along the edges to deter pets.
 
