@@ -12,10 +12,10 @@
 - Glue: glue-hobby, glue-white
 - Insects or Animals-types: spider-webs, cocoons, beetles, termites, dog-chewing, cat-scratching
 -  Stains:
-  1. Water based: tea, mixed-drinks-liqueurs, soft-drinks, food-dyes
-  2. Oil based: butter, chocolate, ice-cream, grease-food, grease-auto, other
-  3. Protein based: blood, milk
-  4. Other: chewing-gum, nail-polish, vomit, urine, paint-latix, chalk
+   1. Water based: tea, mixed-drinks-liqueurs, soft-drinks, food-dyes
+   2. Oil based: butter, chocolate, ice-cream, grease-food, grease-auto, other
+   3. Protein based: blood, milk
+   4. Other: chewing-gum, nail-polish, vomit, urine, paint-latix, chalk
 - Corners or Edges
 - White Knots
 - Moth Damage
