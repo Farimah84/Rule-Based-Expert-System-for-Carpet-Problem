@@ -73,3 +73,11 @@ START
 - R1 | smell-type smoke | IF smell-type smoke oil THEN Solution: Air the carpet outdoors, use deep-cleaning or steam cleaning to remove residues.
 - R14 | insects-or-animals-type dog-chewing | IF insects-or-animals-type dog-chewing THEN Solution: Sprinkle about 20 grams of moth flakes under the rug and along the edges to deter pets.
 
+## 7. End Cindition
+```
+(defrule no-problem
+   (flatten no)
+   =>
+   (printout t crlf
+      "No identifiable carpet issues detected." crlf))
+```
