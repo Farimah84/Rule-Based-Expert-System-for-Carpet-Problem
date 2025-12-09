@@ -1029,7 +1029,8 @@
    (flatten no)
    =>
    (printout t crlf
-      "No identifiable carpet issues detected." crlf))
+      "No identifiable carpet issues detected." crlf)
+      (assert (done)))
 
 
 (defrule end-message
@@ -1041,3 +1042,4 @@
    (printout t "--------------------------------------------------" crlf crlf)
 
 )
+
