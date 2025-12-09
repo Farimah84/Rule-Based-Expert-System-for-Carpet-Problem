@@ -986,7 +986,7 @@
    (printout t " Question: Wear" crlf)
    (printout t "------------------------------" crlf)
    (bind ?ans (ask "Has the rug developed uneven or localized wear?" (create$ yes no)))
-   (assert (moisture-damage ?ans))
+   (assert (wear-damage ?ans))
    (printout t crlf "✔ Answer recorded: wear-damage = " ?ans crlf))
 
 (defrule wear-damage-yes
@@ -1029,7 +1029,7 @@
    (flatten no)
    =>
    (printout t crlf
-      "No identifiable carpet issues detected." crlf)
+      "Solution: No identifiable carpet issues detected." crlf)
       (assert (done)))
 
 
@@ -1042,4 +1042,5 @@
    (printout t "--------------------------------------------------" crlf crlf)
 
 )
+
 
