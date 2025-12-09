@@ -70,7 +70,7 @@ START
                                       └── No → No Problem
 ```
 ## 6. Example rules
-- R1 | smell-type smoke | IF smell-type smoke oil THEN --> Solution: Air the carpet outdoors, use deep-cleaning or steam cleaning to remove residues.
+- R1 | smell-type smoke | IF smell-type smoke THEN --> Solution: Air the carpet outdoors, use deep-cleaning or steam cleaning to remove residues.
 - R14 | insects-or-animals-type dog-chewing | IF insects-or-animals-type dog-chewing THEN --> Solution: Sprinkle about 20 grams of moth flakes under the rug and along the edges to deter pets.
 
 ## 7. End Condition
