@@ -79,5 +79,6 @@ START
    (flatten no)
    =>
    (printout t crlf
-      "Diagnose: No identifiable carpet issues detected." crlf))
+      "Diagnose: No identifiable carpet issues detected." crlf)
+      (assert (done)))
 ```
