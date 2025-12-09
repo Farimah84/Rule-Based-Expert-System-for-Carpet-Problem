@@ -25,7 +25,7 @@
       "==================================================" crlf
       "         CARPET PROBLEM EXPERT SYSTEM          " crlf
       "==================================================" crlf crlf
-      "Welcome! — please answer the questions to diagnose." crlf crlf)
+      "Welcome! Please answer the questions to diagnose." crlf crlf)
    (assert (begin)))
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -1039,4 +1039,5 @@
    (printout t "--------------------------------------------------" crlf)
    (printout t "     Thank you for using the expert system!" crlf)
    (printout t "--------------------------------------------------" crlf crlf)
+
 )
