@@ -2,7 +2,7 @@
          CARPET PROBLEM EXPERT SYSTEM          
 =============================================
 
-Welcome! — please answer the questions to diagnose.
+Welcome! Please answer the questions to diagnose.
 
 ------------------------
  Question: Bad Smell
