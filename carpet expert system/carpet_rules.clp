@@ -76,7 +76,8 @@
    (smell urine)
    =>
    (printout t crlf
-      "Solution: Clean with vinegar solution, sprinkle baking soda, vacuum after a few hours; consult professional for severe cases." crlf)
+      "Solution: Clean with vinegar solution, sprinkle baking soda, vacuum after a few hours;" crlf
+      "consult professional for severe cases." crlf)
       (assert (done)))
 
 (defrule moisture-smell
@@ -1042,6 +1043,7 @@
    (printout t "--------------------------------------------------" crlf crlf)
 
 )
+
 
 
 
