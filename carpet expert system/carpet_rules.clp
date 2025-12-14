@@ -508,7 +508,7 @@
    (printout t crlf
       "Solution: Use a cotton cloth with non-oily nail-polish remover to lift the residue." crlf 
       "Use a clean white paper towel to keep the stain from spreading." crlf 
-      "Repeat the steps until all the adhesive is removed." crlf)
+      "Repeat the steps until everything is removed." crlf)
       (assert (done)))
 
 (defrule vomit-other-stain
@@ -1043,6 +1043,7 @@
    (printout t "--------------------------------------------------" crlf crlf)
 
 )
+
 
 
 
