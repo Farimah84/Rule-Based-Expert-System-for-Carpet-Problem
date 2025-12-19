@@ -1,5 +1,5 @@
 # Rule-Based Expert System for Carpet Problem
-This project focuses on building an expert system that does not rely on a fixed algorithmic solution. Instead, it is based on [real expert knowledge](#https://github.com/Farimah84/Rule-Based-Expert-System-for-Carpet-Problem).
+This project focuses on building an expert system that does not rely on a fixed algorithmic solution. Instead, it is based on [real expert knowledge](https://github.com/Farimah84/Rule-Based-Expert-System-for-Carpet-Problem).
 For the carpet fault–diagnosis domain, **my expert was my father** — a professional carpet specialist with over 37 years of experience. His practical knowledge served as the foundation for designing the rules and solutions used in this system.
 This expert system asks a series of questions in sequence, and whenever the user confirms a condition, it provides the appropriate solution.
 
