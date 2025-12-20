@@ -16,6 +16,9 @@ carpet-expert-system/
 - A terminal or CLIPS console
 - No additional packages needed
 
+## :inbox_tray: Install CLIPS
+[Download from here](https://www.clipsrules.net/?utm_source=chatgpt.com)
+
 ## :rocket: How to Run
 1. Open CLIPS.
 2. Load the expert system:
