@@ -17,7 +17,7 @@ carpet-expert-system/
 - No additional packages needed
 
 ## :inbox_tray: Install CLIPS
-[Download from here](https://www.clipsrules.net/?utm_source=chatgpt.com)
+Install CLIPS from [here](https://www.clipsrules.net/?utm_source=chatgpt.com) to run the file.
 
 ## :rocket: How to Run
 1. Open CLIPS.
