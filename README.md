@@ -39,8 +39,8 @@ Install CLIPS from [here](https://www.clipsrules.net/?utm_source=chatgpt.com) to
 - Did an oil-based stain spill on the carpet?
 - Has sunlight caused fading or damage to the rug?
 
-## 	:scroll: License
-MIT License — free to use, modify, and distribute.
+## 	:scroll: GNU General Public License v3.0
+Copyright and license notices must be preserved.
 
 ## :bust_in_silhouette: Contact
 - [Email](farimahnourpanah@gmail.com)
